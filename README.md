@@ -131,6 +131,3 @@ Have a look at this JSON file to know where goes where:
   }
 }
 ```
-
-
-
