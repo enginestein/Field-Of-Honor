@@ -9,6 +9,24 @@
       }
     },
 
+    "ServerStorage": {
+      "ServerStorage": {
+        "$path": "src/serverstorage"
+      }
+    },
+
+    "MaterialService": {
+      "MaterialService": {
+        "$path": "MaterialService"
+      }
+    },
+
+    "Teams": {
+      "Teams": {
+        "$path": "teams"
+      }
+    },
+
     "ServerScriptService": {
       "Server": {
         "$path": "src/server"
